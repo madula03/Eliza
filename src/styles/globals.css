@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@100&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.input-wrapper {
+    box-shadow: 2px 4px 6px rgba(79, 79, 79, 0.15);
+border-radius: 2px;
+
+}
